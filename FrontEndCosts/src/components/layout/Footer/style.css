@@ -1,0 +1,29 @@
+.footer {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    padding: 0.5em;
+    align-items: center;
+    position: absolute;
+    bottom: 0;
+    background-color: #222;
+}
+
+.listIcons {
+    display: flex;
+    list-style: none;
+}
+
+.listIcons li{
+    color: rgb(196, 196, 196);
+    margin: 0 1em;
+    font-size: 1.5em;
+}
+
+.listIcons li:hover{
+    color: #FFBB33;
+}
+
+.footer p{
+    color: rgb(196, 196, 196);
+}
