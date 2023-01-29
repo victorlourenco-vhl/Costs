@@ -4,8 +4,6 @@
     width: 100%;
     padding: 0.5em;
     align-items: center;
-    position: absolute;
-    bottom: 0;
     background-color: #222;
 }
 
@@ -26,4 +24,7 @@
 
 .footer p{
     color: rgb(196, 196, 196);
+}
+.footer span{
+    color: #FFBB33;
 }
